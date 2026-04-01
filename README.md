@@ -1,4 +1,4 @@
-# JavaScript Variables Practice (var, let, const)
+# JavaScript 
 
 ## 📘 Overview
 This repository contains 40 JavaScript examples demonstrating the behavior of:
